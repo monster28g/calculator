@@ -1,2 +1,1 @@
-# calculator
-calculator
+아차! 기술교육 - GitHub 실습 을 위한 저장소입니다.
