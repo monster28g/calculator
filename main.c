@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("결과 : %d.\n", result);
+	printf("결과 = %d.\n", result);
 	
 	return 0;
 }
